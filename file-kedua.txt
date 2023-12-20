@@ -1,0 +1,4 @@
+1. halo
+2. ini tugas membuat 
+3. a. Tambahkan satu file di branch kedua lalu push ke branch kedua
+4. 
