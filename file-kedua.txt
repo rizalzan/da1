@@ -1,0 +1,13 @@
+1. halo
+2. ini tugas membuat 
+3. a. Tambahkan satu file di branch kedua lalu push ke branch kedua
+4. stepnya adalah:
+	-git checkout (branch yang mau dimasukkan)= untuk berpindah branch
+	-git add (file yang mau ditambah, pakai titik format file) = menambah branch
+	-git commit -m "komentar perubahan)
+	-git push origin (branch yang mau dimasukkan)
+cara merge
+	-git checkout main (mau pindahkan dari scnd-branch ke main)
+	-git merge scnd-main (gabungkan dari scnd ke main)
+	-git commit -m "pindahkan" (judul)
+	-git push origin main (push ke branchyg akan kita copy)
